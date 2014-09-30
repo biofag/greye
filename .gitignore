@@ -1,1 +1,4 @@
 *.opensdf
+*.sdf
+*.ipch
+*.filters
